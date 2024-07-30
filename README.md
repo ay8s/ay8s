@@ -14,4 +14,6 @@ Follow me on...
 <a href="https://www.twitter.com/ay8s"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 <a href="https://www.instagram.com/ay8ss"><img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 <a href="https://www.linkedin.com/in/andrew-yates-a251b323/"><img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<a href="https://www.threads.net/@ay8ss"><img src="https://img.shields.io/badge/-Threads-%23000000" alt="Threads"/></a> 
+<a href="https://bsky.app/profile/ay8s.bsky.social"><img src="https://img.shields.io/badge/-Bluesky-%230b6cff" alt="Bluesky"/></a> 
 </p>
